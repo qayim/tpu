@@ -1,0 +1,47 @@
+<!--Row-->
+ <div class="row">
+    <div class="col-sm-3">
+        <a href="product.html">
+        <div class="container-sm p-3 shadow-sm product">
+            <img src="productpics/saplings/soursopplant.jpg" class="rounded mx-auto d-block productpic">
+            <h4 class="productname">Soursop Sapling</h4>
+            <a href=" " class="btn btn-outline-success" role="button">Per Pot</a>
+            <p class="price">RM12.00</p>
+        </div>
+        </a>
+    </div>
+
+    <div class="col-sm-3">
+        <a href="product.html">
+        <div class="container-sm p-3 shadow-sm product">
+            <img src="productpics/saplings/guavasapling.jpg" class="rounded mx-auto d-block productpic">
+            <h4 class="productname">Guava Sapling (GU 8/GU 9/GU 10)S</h4>
+            <a href=" " class="btn btn-outline-success" role="button">Per Pot</a>
+            <p class="price">RM10.00</p>
+        </div>
+        </a>
+    </div>
+
+    <div class="col-sm-3">
+        <a href="product.html">
+        <div class="container-sm p-3 shadow-sm product">
+            <img src="productpics/saplings/guavasapling.jpg" class="rounded mx-auto d-block productpic">
+            <h4 class="productname">Guava without Seeds Sapling S</h4>
+            <a href=" " class="btn btn-outline-success" role="button">Per Pot</a>
+            <p class="price">RM10.00</p>
+        </div>
+        </a>
+    </div>
+
+    <div class="col-sm-3">
+        <a href="product.html">
+        <div class="container-sm p-3 shadow-sm product">
+            <img src="productpics/saplings/guavabolsapling.jpg" class="rounded mx-auto d-block productpic">
+            <h4 class="productname">Guava Bol S</h4>
+            <a href=" " class="btn btn-outline-success" role="button">Per Pot</a>
+            <p class="price">RM10.00</p>
+        </div>
+        </a>
+    </div>
+</div>
+ <!--Row-->

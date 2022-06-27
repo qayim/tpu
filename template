@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>SNAPS Main Page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css">
+
+</head> 
+
+
+<body>
+
+ <!--Navbar start-->
+ <nav class="navbar fixed-top shadow-sm">
+  <div class="container-lg">
+    <a class="navbar-brand" href="#"><img src="assets/snapslogo.png" class="logonav"></a>
+    <h2>Bringing Freshness Close to You</h2>
+  <a href="#" class="btn btn-light en" role="button">EN</a>
+</div>
+  </div>
+</nav>
+
+ <!--Navbar end-->
+
+<!--Ad boards-->>
+<div class="row mt-3 mx-2 me-3" style="padding-top: 65px;">
+    <div class="col-md-8">
+        <a href="fruitvegetables.html">
+            <div class="card">
+                <img src="assets/ad1.png"/>
+            </div>
+        </a>
+    </div>
+    <div class="col-md-4 px-0 py-0 mx-0 my-0">
+        <a href="saplings.html">
+            <div class="card mb-1">
+                <img src="assets/ad2.png"/>
+            </div>
+        </a>
+        <a href="services.html">
+            <div class="card">
+                <img src="assets/ad3.png"/>
+            </div>
+        </a>
+    </div>
+</div>
+
+<!--Ad boards ends-->
+ 
+<!-- category-button -->
+
+<div class="col justify-content-center mx-3 my-3 category">
+    <div class="col-md-12 d-flex justify-content-around category-container pt-2">
+        <a type="button" class="btn btn-link" href="index.html">
+            <img src="assets/category_img1.png" alt="" />
+            <p class="category-text">Groceries</p>
+        </a>
+        <a type="button" class="btn btn-link" href="services.html">
+            <img src="assets/category_img2.png" alt="" />
+            <p class="category-text">Services</p>
+        </a>
+        <a type="button" class="btn btn-link" href="fruitvegetables.html">
+            <img src="assets/category_img3.png" alt="" />
+            <p class="category-text">Vegetables</p>
+        </a>
+        <a type="button" class="btn btn-link" href="fruitvegetables.html">
+            <img src="assets/category_img4.png" alt="" />
+            <p class="category-text">Fruits</p>
+        </a>
+        <a type="button" class="btn btn-link" href="machinery.html">
+            <img src="assets/category_img5.png" alt="" />
+            <p class="category-text">Machinery</p>
+        </a>
+        <a type="button" class="btn btn-link" href="rental.html">
+            <img src="assets/category_img6.png" alt="" />
+            <p class="category-text">Rental</p>
+        </a>
+    </div>
+</div>
+
+<!--Category ends-->
+
+ <!--Home starts-->
+
+
+
+<!---Home ends-->
+
+<!---Contact starts-->
+<section class="home py-3" style="background: #378149">
+	 <!--Navbar start-->
+     <nav class="navbar shadow-sm" style="background-color: #378149;">
+        <div class="container-lg">
+            <div class="col-sm-3">
+                <div class="row contact">
+                    <h3 class="contactus">Contact us</h3>
+                    <h4 class="ppp">Pusat Pertanian Putra</h4>
+                    <p>Universiti Putra Malaysia</p>
+                    <p>43400 UPM Serdang</p>
+                    <p>Selangor Darul Ehsan</p>
+                    <p>
+                        <i class="material-icons">call</i>
+                        +603 9769 7282/7301
+                    </p>
+                    <p><i class="material-icons">fax</i>
+                        +603 8942 4076
+                    </p>
+                    <p><i class="material-icons">mail</i>
+                        dir.tpu@upm.edu.my
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="row">
+                    <a class="navbar-brand" href="#"><img src="assets/csit_logo.png" class="contactpic"></a>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="row">
+                    <a class="navbar-brand" href="#"><img src="assets/upm_logo_horizontal.png" class="contactpic"></a>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="row">
+                    <a class="navbar-brand" href="#"><img src="assets/SNAPS_PAC.png" class="contactpic"></a>
+                </div>
+            </div>
+      </div>
+        </div>
+      </nav>
+      
+       <!--Navbar end-->
+</section>
+<!---Contact ends-->
+
+<script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
