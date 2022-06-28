@@ -188,6 +188,10 @@ a{
     color: #6F4E37;
 }
 
+.adboard{
+    padding-top: 100px;
+}
+
 .card{
     padding: 2px;
 }
@@ -199,10 +203,16 @@ a{
     .logonav{
         height: 30px;
     }
+    .adboard{
+        padding-top: 50px;
+    }
    }
 
    @media screen and (max-width: 300px) {
     .logonav{
         height: 10px;
+    }
+    .adboard{
+        padding-top: 35px;
     }
    }
