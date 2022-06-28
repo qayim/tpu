@@ -187,3 +187,9 @@ a{
 .card{
     padding: 2px;
 }
+
+@media screen and (max-width: 600px) {
+    .catchphrase{
+        display: none;
+    }
+   }
